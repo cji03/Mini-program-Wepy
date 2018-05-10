@@ -40,3 +40,10 @@
 #### 暂时解决方案：
 
 将文件结构拍扁，子组件不再调用孙子组件，孙子组件代码提升到子组件中操作，直接展示获取到的静态数据。
+
+#### 相关issue
+
+- https://github.com/Tencent/wepy/issues/1218
+- https://github.com/Tencent/wepy/issues/1231
+- https://github.com/Tencent/wepy/issues/1188
+
